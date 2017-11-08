@@ -1,0 +1,10 @@
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csprojResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.Form1.resources
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.Properties.Resources.resources
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe.config
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.exe
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\bin\Debug\EncryptionDecryption.pdb
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.exe
+C:\Users\Roy\Desktop\Itvitae\School opdrachten\EncryptionDecryption\EncryptionDecryption\obj\Debug\EncryptionDecryption.pdb
